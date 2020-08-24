@@ -3,6 +3,11 @@
 * Signup &amp; Login Authentication Using Flask
 * Password Hashing - SHA256
 
+# Team
+-Shanmuk Michael
+-Akhilesh
+-Jahnavi
+
 # :writing_hand: Requirements
 - flask
 - flask-sqlalchemy
