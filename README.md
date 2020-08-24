@@ -1,3 +1,8 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=alert_status)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=security_rating)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=akhileshkoti_Graphical-Password-to-Avoid-Shoulder-Surfing)
 # Graphical-Password-to-Avoid-Shoulder-Surfing
 * We the team of three developed two method Graphical Password Authentication System || Techinoary Cyber Security Internship ||
 * Signup &amp; Login Authentication Using Flask
